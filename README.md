@@ -1,5 +1,7 @@
-<<<<<<< HEAD
 # Mrutyunjay Kar Portfolio
+![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Style-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow?logo=javascript&logoColor=black)
 
 A single-page personal portfolio built with HTML, CSS, and vanilla JavaScript to present SDET, automation engineering, and front-end implementation skills.
 
